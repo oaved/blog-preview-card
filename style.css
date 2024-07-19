@@ -109,6 +109,7 @@ body {
 .text-container {
     display: grid;
     gap: 0.875rem;
+    line-height: 1.475rem;
 }
 
 .title {
